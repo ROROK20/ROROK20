@@ -1,12 +1,12 @@
 # Rohan Khiani
 
-I build AI for finance. Charlotte, where I grew up, ranks last among the 50 largest U.S. cities for kids climbing out of poverty; financial analysis and financing shouldn't depend on your income or who you know.
+I build AI for finance. Financial analysis and financing shouldn't depend on your income or who you know.
 
 Junior at the North Carolina School of Science and Mathematics (Class of 2028) · founder of Novaris · sole author of a NeurIPS 2026 workshop paper.
 
 ## Now
 
-**[Novaris](https://financeos-gules.vercel.app)**: financial tools for small and mid-sized contractors that big firms already have: lien waivers subs sign on their phone, a payment link for each sub, and a 13-week cash forecast. I built and shipped it solo on Next.js, Supabase, Plaid and Stripe, with 8,000+ automated tests. Top 3 of 5 finalists at the NGEN RTP Student Entrepreneurship Conference.
+**Novaris**: financial tools for small and mid-sized contractors that big firms already have: lien waivers subs sign on their phone, a payment link for each sub, and a 13-week cash forecast. Built on Next.js, Supabase, Plaid and Stripe; I direct the build and AI writes most of the code. Top 3 of 5 finalists at the NGEN RTP Student Entrepreneurship Conference.
 
 **Research: *Blinding the AI Co-Scientist: Mechanical Pre-Commitment for AI-Assisted Empirical Research*** (sole author, NeurIPS 2026 Workshop on AI-Native Academia). The protocol locks an analysis plan before AI-assisted research ever sees real data, so the common forms of result-fishing become technically impossible. On my own event study of whether company news changes a stock's risk (7,760 U.S. companies, including 2,553 failed ones most studies leave out), it rejected my headline result, and I kept the rejection.
 
@@ -38,7 +38,7 @@ I run a two-seat AI workflow I designed: one Claude Code session writes the code
 - Top 3 of 5 finalists, NGEN RTP Student Entrepreneurship Conference (2026), with Novaris
 - Invited attendee, Y Combinator × Duke, the youngest there
 - Stanford AI4ALL (16% acceptance), team lead on NLP models for disaster response
-- 1st of 300+, Providence Day Hackathon
+- 1st place, a high-school hackathon
 - Reviewer, NeurIPS 2026 workshop
 - Technology Sector Lead, a ~$170K student-run investment fund (+11.8% while I led it)
 - Eagle Scout
@@ -49,6 +49,6 @@ Python (PyTorch, scikit-learn, pandas, NumPy/SciPy, FastAPI) · TypeScript (Next
 
 ## Contact
 
-[rskv.khiani@gmail.com](mailto:rskv.khiani@gmail.com) · [rohankhiani.vercel.app](https://rohankhiani.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rohan-khiani)
+[rskv.khiani@gmail.com](mailto:rskv.khiani@gmail.com) · [rohankhiani.vercel.app](https://rohankhiani.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rohan-khiani-b14147300/)
 
 I'd love to talk with anyone working on AI, finance or both, especially about research mentorship and internships.
