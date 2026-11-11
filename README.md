@@ -49,6 +49,6 @@ Python (PyTorch, scikit-learn, pandas, NumPy/SciPy, FastAPI) · TypeScript (Next
 
 ## Contact
 
-[rskv.khiani@gmail.com](mailto:rskv.khiani@gmail.com) · [rohankhiani.vercel.app](https://rohankhiani.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rohan-khiani-b14147300/)
+[rskv.khiani@gmail.com](mailto:rskv.khiani@gmail.com) · [rohankhiani.vercel.app](https://rohankhiani.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rohan-khiani/)
 
 I'd love to talk with anyone working on AI, finance or both, especially about research mentorship and internships.
